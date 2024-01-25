@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A FullStack Developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Nest.js, Next.js, Prisma**
+- 🌱 I’m currently learning **Golang**
 
-- My last project was: [HenryJobs](https://jobshenry.vercel.app/)
-
-- 💬 Ask me about **node.js, typescript**
+- 💬 Ask me about **node.js, typescript, golang, java**
 
 - 📫 How to reach me **gaerca123@gmail.com**
 
